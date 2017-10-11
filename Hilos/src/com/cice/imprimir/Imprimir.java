@@ -14,7 +14,7 @@ public class Imprimir extends Thread {
         this.nombre = nombre;
 
     }
-
+//actualización para github
     @Override
     public void run() {
 
